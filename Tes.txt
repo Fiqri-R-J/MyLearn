@@ -3,3 +3,4 @@ Laravel
 HTML
 PHP
 CSS
+JavaScript
